@@ -1,31 +1,35 @@
-function showTime() {
-    let date = new Date();
-    let h = date.getHours();
-    let m = getMinutes();
-    let s = date.getSeconds();
-    let period = 'AM';
-
-    if(h == 0) {
-        h = 12;
-    }
-
-    if(h > 12) {
-        h = h - 12;
-        period = "PM";
-    }
+document.addEventListener("DOMContentLoaded", function () {
     
-    h = (h < 10) ? "0" + h : h;
-    m = (m < 10) ? "0" + m : m;
-    s = (s < 10) ? "0" + s : s;
 
-    let time = h + ":" + m + ":" + s + "" + period;
-    document.getElementById("MyClockDisplay").innerText = 
-    time;
-    document.getElementById("MyClockDisplay").textContent = 
-    time;
 
-    setTimeout(showTime, 1000);
+            function showTime() {
+                let date = new Date();
+                let h = date.getHours();
+                let m = getMinutes();
+                let s = date.getSeconds();
+                let period = 'AM';
 
-}
+                if (h == 0) {
+                    h = 12;
+                }
 
-showTime();
+                if (h > 12) {
+                    h = h - 12;
+                    period = "PM";
+                }
+
+                h = (h < 10) ? "0" + h : h;
+                m = (m < 10) ? "0" + m : m;
+                s = (s < 10) ? "0" + s : s;
+
+                let time = h + ":" + m + ":" + s + "" + period;
+                document.getElementById("MyClockDisplay").innerText =
+                    time;
+                document.getElementById("MyClockDisplay").textContent =
+                    time;
+
+                setTimeout(showTime, 1000);
+
+            }
+
+            showTime();
