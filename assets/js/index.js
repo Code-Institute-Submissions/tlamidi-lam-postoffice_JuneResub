@@ -1,11 +1,12 @@
 document.addEventListener("DOMContentLoaded", function () {
     
+    
 
 
             function showTime() {
                 let date = new Date();
                 let h = date.getHours();
-                let m = getMinutes();
+                let m = date.getMinutes();
                 let s = date.getSeconds();
                 let period = 'AM';
 
