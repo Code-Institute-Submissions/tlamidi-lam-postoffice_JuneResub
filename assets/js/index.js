@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 m = (m < 10) ? "0" + m : m;
                 s = (s < 10) ? "0" + s : s;
 
+                ]
                 let time = h + ":" + m + ":" + s + "" + period;
                 document.getElementById("MyClockDisplay").innerText =
                     time;
