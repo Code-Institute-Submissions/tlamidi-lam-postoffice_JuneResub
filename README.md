@@ -117,5 +117,11 @@ The clock display the current time in hour, minute, and second, in a digital for
 Html, css, and Javascript were deployed in the project. There are essentialy three files. Namely,
 index.html, index.js, and style.css.
 
+The basic programme for the project started from the Html file. The css file has got simple coding where to essentially position both the clock and the header of the project.
 
+The h1 element is placed inside the header anchored in an 'a' element. This is to make the h1 bolder. The h2 sub-header is also placed inside the header element but not wrapped inside any navigational or boldened element.
+
+The both h1 and h2 are coded in the css file to be positioned in the center of the page. 
+
+The div element in the Html file that is directly connected to the attributes and settings in respect of the digital clock is also been coded in the css file to position the clock at the center of the page.
 
