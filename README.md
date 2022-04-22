@@ -106,3 +106,16 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+This is Tony Lamidi's readme in respect of my project 2. The title of my project ic Digital clock
+
+This is single a  page project.
+
+The clock display the current time in hour, minute, and second, in a digital form.
+
+Html, css, and Javascript were deployed in the project. There are essentialy three files. Namely,
+index.html, index.js, and style.css.
+
+
+
