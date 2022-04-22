@@ -108,6 +108,8 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 Happy coding!
 
 
+Tony Lamidi
+
 This is Tony Lamidi's readme in respect of my project 2. The title of my project ic Digital clock
 
 This is single a  page project.
