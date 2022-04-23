@@ -112,7 +112,7 @@ Tony Lamidi
 
 This is Tony Lamidi's readme in respect of my project 2. The title of my project ic Digital clock
 
-This is single a  page project.
+This is a single page project.
 
 The clock display the current time in hour, minute, and second, in a digital form.
 
