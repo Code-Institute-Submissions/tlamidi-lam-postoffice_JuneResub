@@ -127,3 +127,5 @@ The both h1 and h2 are coded in the css file to be positioned in the center of t
 
 The div element in the Html file that is directly connected to the attributes and settings in respect of the digital clock is also been coded in the css file to position the clock at the center of the page.
 
+Onclick with a function is added to the div in html file to connect to an "if" statement added in js file. This is simply to change background color between two colors when the body is clicked.  
+
