@@ -14,7 +14,11 @@ HTML file when tested, no errors were found when passing through the official W3
 
 CSS file was tested. No errors were found when passing through the official JIGSAW Validator.
 
+image.png....The print screen of the validation could not be verified here.
+
 JavaScript file tested. No errors were found when passing through the official JSHINT Validator.
+
+image.png ---- The print screen of the validation could not be verified here. 
   
    The folowing metrics were returned;
       There are 4 functions in this file.
