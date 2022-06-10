@@ -47,3 +47,9 @@ Credit.
 I give credit to few books and videos on python, related to the project, on the internet that I read and watched.
 Credit also to my few fellow students who were able to give some form of advice and support.
 I also give Credit to my mentor for wonderful advice and support given. Numerous tips, links and materials to support me were not left out. I am realy greatful for that.
+
+Content.
+
+I import into the css file a link from the google font, for the purpose of utilising oswald and lato fonts.
+
+
